@@ -1,4 +1,5 @@
-> For a CI/CD demo using Tekton Pipelines and Argo CD on OpenShift refer to:
+> For a CI/CD demo using Tekton khaleel
+>  Pipelines and Argo CD on OpenShift refer to:
 > https://github.com/siamaksade/openshift-cicd-demo
  
 # CI/CD Demo - OpenShift Container Platform 4.6
